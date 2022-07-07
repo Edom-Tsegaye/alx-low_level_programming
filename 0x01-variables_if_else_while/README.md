@@ -1,0 +1,1 @@
+In this project arithmetic, logical, relational and boolean operators,how to use if, if-else statements, how to declare and assign variables, how to print variables, how to use while loop, and purposes of gcc flags are exercised
